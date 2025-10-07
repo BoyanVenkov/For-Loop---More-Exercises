@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Bills", "06. Bills\06. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Football League", "07. Football League\07. Football League.csproj", "{73D84CCA-CDD9-4216-82DC-ABB3F0DAC96E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Equal Pairs", "08. Equal Pairs\08. Equal Pairs.csproj", "{7E8FE72B-21F7-4368-ACA1-1B3481E26D17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Clock", "09. Clock\09. Clock.csproj", "{E43B59F8-67DD-4226-938A-C2554E52AAB4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{73D84CCA-CDD9-4216-82DC-ABB3F0DAC96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73D84CCA-CDD9-4216-82DC-ABB3F0DAC96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73D84CCA-CDD9-4216-82DC-ABB3F0DAC96E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8FE72B-21F7-4368-ACA1-1B3481E26D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8FE72B-21F7-4368-ACA1-1B3481E26D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8FE72B-21F7-4368-ACA1-1B3481E26D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8FE72B-21F7-4368-ACA1-1B3481E26D17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E43B59F8-67DD-4226-938A-C2554E52AAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43B59F8-67DD-4226-938A-C2554E52AAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E43B59F8-67DD-4226-938A-C2554E52AAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E43B59F8-67DD-4226-938A-C2554E52AAB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
