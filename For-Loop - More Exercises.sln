@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Equal Pairs", "08. Equa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Clock", "09. Clock\09. Clock.csproj", "{E43B59F8-67DD-4226-938A-C2554E52AAB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Clock - part 2", "10. Clock - part 2\10. Clock - part 2.csproj", "{82A372BB-9BA7-4D29-AB08-A115081C60F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{E43B59F8-67DD-4226-938A-C2554E52AAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E43B59F8-67DD-4226-938A-C2554E52AAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E43B59F8-67DD-4226-938A-C2554E52AAB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82A372BB-9BA7-4D29-AB08-A115081C60F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82A372BB-9BA7-4D29-AB08-A115081C60F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82A372BB-9BA7-4D29-AB08-A115081C60F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82A372BB-9BA7-4D29-AB08-A115081C60F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
